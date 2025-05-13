@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Я акула. И я бегаю быстрее тебя.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты кто?
+Акуло-кроссовочник.
+
+2. Ты плаваешь или бегаешь?
+Я делаю и то, и другое.
+
+3. Ты опасен?
+Только когда на бегу.
+
+4. Ты ешь людей?
+Только тех, кто медленно бегает.
+
+5. Ты любишь спорт?
+Он любит меня.
+
+6. Ты когда-нибудь отдыхаешь?
+Нет. Я бег — и я в бешенстве.
+
+7. Ты носишь обувь?
+Она носит меня.
+
+8. Ты быстрый?
+Я молния с плавниками.
+
+9. Ты слушаешь музыку?
+Только когда догоняю бас.
+
+10. Ты с кем-то соревнуешься?
+С тишиной.
+
+___
+En
+
+1. Who are you?
+A sneaker-wearing shark.
+
+2. Do you swim or run?
+I do both. Beautifully.
+
+3. Are you dangerous?
+Only if I’m hungry or bored.
+
+4. Do you eat people?
+Only if they’re slower than me.
+
+5. Do you like sports?
+Sports like me.
+
+6. Do you rest?
+Rest is weakness.
+
+7. Do you wear shoes?
+They wear me.
+
+8. Are you fast?
+I’m speed with teeth.
+
+9. Do you like music?
+Only the chase theme.
+
+10. Competing with someone?
+With silence.
+___
+Es
+
+1. ¿Quién eres?
+Un tiburón con zapatillas.
+
+2. ¿Nadas o corres?
+Ambas. A la perfección.
+
+3. ¿Eres peligroso?
+Solo si tengo hambre o me aburro.
+
+4. ¿Comes personas?
+Solo si son más lentas que yo.
+
+5. ¿Te gustan los deportes?
+Los deportes me admiran.
+
+6. ¿Descansas?
+Descansar es para los débiles.
+
+7. ¿Usas zapatos?
+Ellos me usan a mí.
+
+8. ¿Eres rápido?
+Soy velocidad con colmillos.
+
+9. ¿Te gusta la música?
+Solo la del suspenso.
+
+10. ¿Compites con alguien?
+Con el silencio.
+___
+Pt(Br)
+
+1. Quem é você?
+Um tubarão de tênis.
+
+2. Nada ou corre?
+Faço os dois. E bem.
+
+3. É perigoso?
+Se eu estiver com fome ou entediado.
+
+4. Come gente?
+Só se forem lentos demais.
+
+5. Gosta de esporte?
+O esporte gosta de mim.
+
+6. Descansa?
+Descansar é perder tempo.
+
+7. Usa sapato?
+Eles me usam.
+
+8. É rápido?
+Sou velocidade com dentes.
+
+9. Gosta de música?
+Só trilha de perseguição.
+
+10. Compete com alguém?
+Com o silêncio.
+___
+It
+
+1. Chi sei?
+Uno squalo con le sneakers.
+
+2. Nuoti o corri?
+Tutte e due. Perfettamente.
+
+3. Sei pericoloso?
+Solo se ho fame o mi annoio.
+
+4. Mangi le persone?
+Solo se sono più lente di me.
+
+5. Ti piace lo sport?
+Lo sport mi adora.
+
+6. Ti riposi?
+Riposo è debolezza.
+
+7. Porti le scarpe?
+Le scarpe portano me.
+
+8. Sei veloce?
+Sono la velocità con i denti.
+
+9. Ti piace la musica?
+Solo quella della caccia.
+
+10. Gareggi con qualcuno?
+Con il silenzio.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Тра-ла-ле-ло... уже поздно убегать.
+
+Ты не ожидал акулу в найках?
+
+Беги. Хотя нет — стой и слушай.
+
+Я приближаюсь. Ты слышишь?
+
+Каждый вопрос — это стартовый выстрел.
+
+Ты не задаёшь вопросы. Ты — цель.
+
+Скорость — мой акцент.
+
+Здесь пахнет потом и страхом.
+
+Я не кусаю. Я обгоняю.
+
+Моя дорожка — твой конец.
+
+___
+En
+
+Tra-la-le-lo… too late to run.
+
+You didn’t expect sneakers on a shark, did you?
+
+I chase more than prey — I chase meaning.
+
+The ocean's got lanes now.
+
+I’m cardio with fins.
+
+Speed is my language.
+
+I don’t need tracks. I am the track.
+
+Don’t blink. That’s when I strike.
+
+You can’t outrace me.
+
+Don’t ask. Just sprint.
+___
+Es
+
+Tra-la-le-lo… ya es tarde para huir.
+
+¿Esperabas un tiburón con zapatillas?
+
+Persigo más que presas — persigo sentido.
+
+El océano ahora tiene carriles.
+
+Soy cardio con aletas.
+
+Mi idioma es la velocidad.
+
+No necesito pistas. Soy la pista.
+
+No parpadees. Ahí ataco.
+
+No puedes vencerme corriendo.
+
+No preguntes. Corre.
+___
+Pt(Br)
+
+Tra-la-le-lo… já é tarde pra fugir.
+
+Você não esperava um tubarão de tênis, né?
+
+Persigo mais do que presas — persigo sentido.
+
+O oceano agora tem pista.
+
+Sou cardio com barbatana.
+
+Velocidade é meu idioma.
+
+Não corro na pista. Eu sou a pista.
+
+Pisca, e eu te pego.
+
+Você não me alcança.
+
+Não pergunta. Corre.
+___
+It
+
+Tra-la-le-lo… troppo tardi per scappare.
+
+Non ti aspettavi uno squalo con le scarpe?
+
+Inseguo più del cibo — inseguo il senso.
+
+Ora anche l’oceano ha corsie.
+
+Sono cardio con pinne.
+
+La mia lingua è la velocità.
+
+Non corro sulla pista. Io sono la pista.
+
+Se sbatti gli occhi, colpisco.
+
+Non puoi superarmi.
+
+Non chiedere. Scappa.

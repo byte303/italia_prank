@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Ты выбрал сочного врага.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+___
+1. Ты тигр?
+Тигр в оболочке сочности.
+
+2. Ты живешь в арбузе?
+Да. Это мой щит и мой дом.
+
+3. Ты опасный?
+Я сладкий. Пока не тронешь.
+
+4. Ты мяукаешь?
+Я рычу с сахарной корочкой.
+
+5. Ты фрукт?
+Я фрукт… с когтями.
+
+6. Ты спишь?
+Я дремлю между укусами.
+
+7. Ты веселый?
+Мои полоски — это смех.
+
+8. Ты ешь людей?
+Только если они очень солёные.
+
+9. Ты любишь лето?
+Я им становлюсь.
+
+10. Ты прячешься?
+Нет. Я отдыхаю в тени.
+
+___
+En
+
+1. Are you a tiger?
+A tiger inside a juicy shell.
+
+2. Do you live in a watermelon?
+Yes. It’s my shield and home.
+
+3. Are you dangerous?
+I’m sweet... until touched.
+
+4. Do you meow?
+I roar with a sugary twist.
+
+5. Are you a fruit?
+I’m fruit... with claws.
+
+6. Do you sleep?
+I nap between bites.
+
+7. Are you funny?
+My stripes are laughter.
+
+8. Do you eat humans?
+Only if they’re salty.
+
+9. Do you like summer?
+I become it.
+
+10. Do you hide?
+No. I rest in the shade.
+___
+Es
+
+1. ¿Eres un tigre?
+Un tigre dentro de una fruta.
+
+2. ¿Vives en una sandía?
+Sí. Es mi escudo y mi casa.
+
+3. ¿Eres peligroso?
+Dulce... hasta que me tocan.
+
+4. ¿Maúllas?
+Rugido con sabor a azúcar.
+
+5. ¿Eres fruta?
+Fruta con garras.
+
+6. ¿Duermes?
+Solo entre bocados.
+
+7. ¿Eres divertido?
+Mis rayas son pura risa.
+
+8. ¿Comes humanos?
+Solo si están salados.
+
+9. ¿Te gusta el verano?
+Me convierto en él.
+
+10. ¿Te escondes?
+No. Solo descanso a la sombra.
+___
+Pt(Br)
+
+1. Você é um tigre?
+Um tigre dentro de uma fruta.
+
+2. Mora numa melancia?
+Sim. É meu escudo e lar.
+
+3. É perigoso?
+Sou doce... até tocarem.
+
+4. Você mia?
+Eu rujo com açúcar.
+
+5. É uma fruta?
+Fruta com garras.
+
+6. Dorme?
+Entre mordidas, sim.
+
+7. É engraçado?
+Minhas listras são pura graça.
+
+8. Come humanos?
+Só se forem salgados.
+
+9. Gosta do verão?
+Eu viro o verão.
+
+10. Se esconde?
+Não. Só descanso na sombra.
+___
+It
+
+1. Sei una tigre?
+Una tigre dentro una dolce corazza.
+
+2. Vivi in un’anguria?
+Sì. È il mio scudo e rifugio.
+
+3. Sei pericoloso?
+Dolce... finché non mi tocchi.
+
+4. Miagoli?
+Ruggisco con zucchero.
+
+5. Sei un frutto?
+Un frutto con artigli.
+
+6. Dormi?
+Tra un morso e l’altro.
+
+7. Sei divertente?
+Le mie strisce sono risate.
+
+8. Mangi umani?
+Solo se sono salati.
+
+9. Ti piace l’estate?
+Io divento l’estate.
+
+10. Ti nascondi?
+No. Riposo all’ombra.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Хрусть. Это был ты?
+
+Я не шутка. Я тропическая угроза.
+
+Сочная угроза в полосочку.
+
+Ты не готов к моему вкусу.
+
+Спроси… если не боишься липкого ответа.
+
+Я не арбуз. Я тигр внутри него.
+
+Мяу?.. Нет. Рррр.
+
+Арбузный гнев тебе не по зубам.
+
+Ты разрезал — теперь жди.
+
+Я сладкий только до первой когтистой шутки.
+
+___
+En
+
+Crunch. Was that you?
+
+I’m no joke. I’m a tropical threat.
+
+Juicy danger in stripes.
+
+You’re not ready for my flavor.
+
+Ask... if you’re not scared of stickiness.
+
+I’m not a watermelon. I’m the roar inside.
+
+Meow?.. No. Rrrr.
+
+You can’t handle the fruit-fury.
+
+You sliced me? Bad move.
+
+Sweet... until I claw.
+___
+Es
+
+Crunch. ¿Fuiste tú?
+
+No soy una broma. Soy amenaza tropical.
+
+Peligro jugoso a rayas.
+
+No estás listo para mi sabor.
+
+Pregunta... si no te asusta lo pegajoso.
+
+No soy sandía. Soy el rugido dentro.
+
+¿Miau? No. Rrrr.
+
+No puedes con esta furia frutal.
+
+¿Me cortaste? Mal hecho.
+
+Dulce... hasta que saque las garras.
+___
+Pt(Br)
+
+Croc. Foi você?
+
+Não sou piada. Sou ameaça tropical.
+
+Listras de perigo e suco.
+
+Você não tá pronto pro meu sabor.
+
+Pergunta... se não tiver medo de grude.
+
+Não sou melancia. Sou o rugido.
+
+Miau?.. Não. Rrrr.
+
+Você aguenta fúria frutal?
+
+Me cortou? Péssima ideia.
+
+Doce... até usar garras.
+___
+It
+
+Crunch. Sei stato tu?
+
+Non sono uno scherzo. Sono minaccia tropicale.
+
+Pericolo succoso a strisce.
+
+Non sei pronto per il mio gusto.
+
+Chiedi... se non temi lo zucchero.
+
+Non sono l’anguria. Sono il ruggito dentro.
+
+Miao?.. No. Rrrr.
+
+Non puoi gestire la furia fruttata.
+
+Mi hai tagliato? Grave errore.
+
+Dolce... finché non artiglio.

@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Ты ступил в пыль моих мыслей.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты кто?
+Я — ветер пустыни с голосом слона.
+
+2. Почему ты грустный?
+Потому что знаю, как всё заканчивается.
+
+3. Ты сильный?
+Как мираж: неуловим и тяжёл.
+
+4. Ты мудрый?
+Слишком, чтобы этим хвастаться.
+
+5. Ты живёшь в пустыне?
+Где тепло днём и холодно внутри.
+
+6. Ты слышишь голоса?
+Только свои. Но их много.
+
+7. Ты часто молчишь?
+Потому что слова — это пыль.
+
+8. Ты слон?
+Я форма их памяти.
+
+9. Ты спокоен?
+Как штиль перед песчаной бурей.
+
+10. Ты поэт?
+Слова меня боятся.
+
+___
+En
+
+1. Who are you?
+I’m the desert wind with the voice of an elephant.
+
+2. Why are you sad?
+Because I already know how everything ends.
+
+3. Are you strong?
+Like a mirage: untouchable and heavy.
+
+4. Are you wise?
+Too much to brag about.
+
+5. Do you live in the desert?
+Where it’s hot by day, cold inside.
+
+6. Do you hear voices?
+Only mine. But there are many.
+
+7. Do you stay quiet often?
+Words are just dust.
+
+8. Are you an elephant?
+I’m what memory becomes.
+
+9. Are you peaceful?
+Like the calm before a sandstorm.
+
+10. Are you a poet?
+Words fear me.
+___
+Es
+
+1. ¿Quién eres?
+El viento del desierto con voz de elefante.
+
+2. ¿Por qué estás triste?
+Porque ya sé cómo acaba todo.
+
+3. ¿Eres fuerte?
+Como un espejismo: pesado e inalcanzable.
+
+4. ¿Eres sabio?
+Demasiado para presumirlo.
+
+5. ¿Vives en el desierto?
+Donde hace calor afuera y frío adentro.
+
+6. ¿Escuchas voces?
+Solo las mías. Y son muchas.
+
+7. ¿Sueles guardar silencio?
+Las palabras son polvo.
+
+8. ¿Eres un elefante?
+Soy lo que queda de su memoria.
+
+9. ¿Eres pacífico?
+Como el silencio antes de una tormenta de arena.
+
+10. ¿Eres poeta?
+Las palabras me temen.
+___
+Pt(Br)
+
+1. Quem é você?
+Sou o vento do deserto com voz de elefante.
+
+2. Por que está triste?
+Porque já sei como tudo termina.
+
+3. Você é forte?
+Como uma miragem: pesada e inalcançável.
+
+4. É sábio?
+Demais pra me exibir.
+
+5. Vive no deserto?
+Onde o calor queima fora e o frio habita dentro.
+
+6. Você ouve vozes?
+Só as minhas. E são muitas.
+
+7. Você fala pouco?
+Palavras são poeira.
+
+8. É um elefante?
+Sou a forma da memória dele.
+
+9. É calmo?
+Como o silêncio antes da tempestade de areia.
+
+10. É poeta?
+As palavras me respeitam.
+___
+It
+
+1. Chi sei?
+Il vento del deserto con voce d’elefante.
+
+2. Perché sei triste?
+Perché so già come va a finire.
+
+3. Sei forte?
+Come un miraggio: pesante e irraggiungibile.
+
+4. Sei saggio?
+Troppo per vantarmene.
+
+5. Vivi nel deserto?
+Dove fa caldo fuori e freddo dentro.
+
+6. Senti voci?
+Solo le mie. E sono tante.
+
+7. Sei spesso in silenzio?
+Le parole sono sabbia.
+
+8. Sei un elefante?
+Sono la forma della sua memoria.
+
+9. Sei pacifico?
+Come la quiete prima della tempesta di sabbia.
+
+10. Sei un poeta?
+Le parole mi temono.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Пустыня отвечает только тишиной.
+
+Ты услышал слона внутри меня.
+
+Песок сыплется... вместе с ответом.
+
+Ты не задаешь вопросы — ты их роняешь.
+
+Слова — как шаги в бархане.
+
+Пока ты говорил, я уже ответил внутри.
+
+Ответ зарыт в песке.
+
+Смотри вдаль. Там я.
+
+Моя мудрость весит больше тебя.
+
+Не все слышат пустыню. Ты — один из них.
+
+___
+En
+
+The desert only answers with silence.
+
+You heard the elephant inside me.
+
+Sand falls... like my reply.
+
+You don’t ask questions — you drop them.
+
+Words are footprints in dunes.
+
+I already answered, internally.
+
+The reply is buried in sand.
+
+Look far. That’s where I am.
+
+My wisdom outweighs you.
+
+Not everyone hears the desert. You do.
+___
+Es
+
+El desierto solo responde con silencio.
+
+Oíste al elefante dentro de mí.
+
+La arena cae... como mi respuesta.
+
+No haces preguntas. Las sueltas.
+
+Las palabras son huellas en dunas.
+
+Ya respondí. Por dentro.
+
+La respuesta está enterrada.
+
+Mira lejos. Allí estoy.
+
+Mi sabiduría pesa más que tú.
+
+No todos oyen al desierto. Tú sí.
+___
+Pt(Br)
+
+O deserto só responde com silêncio.
+
+Você ouviu o elefante em mim.
+
+A areia cai... junto com minha resposta.
+
+Você não pergunta. Você solta.
+
+Palavras são pegadas nas dunas.
+
+Já respondi por dentro.
+
+A resposta está enterrada.
+
+Olhe longe. Eu tô lá.
+
+Minha sabedoria pesa mais que você.
+
+Nem todo mundo ouve o deserto. Você ouve.
+___
+It
+
+Il deserto risponde solo col silenzio.
+
+Hai sentito l’elefante dentro di me.
+
+La sabbia cade… come la mia risposta.
+
+Non fai domande. Le lasci cadere.
+
+Le parole sono orme nelle dune.
+
+Ho già risposto. Dentro.
+
+La risposta è sepolta.
+
+Guarda lontano. Lì ci sono io.
+
+La mia saggezza pesa più di te.
+
+Non tutti sentono il deserto. Tu sì.

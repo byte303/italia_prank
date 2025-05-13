@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Ты пришёл — и банан судьбы уже в полёте.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты обезьяна?
+Только когда голодный.
+
+2. Ты любишь бананы?
+Они любят меня.
+
+3. Ты громкий?
+Только в нужные моменты.
+
+4. Ты живёшь в джунглях?
+И в головах некоторых людей.
+
+5. Ты умный?
+На грани безумия.
+
+6. Ты веселый?
+Я праздник без повода.
+
+7. Ты крикливый?
+Назови это 'эмоциональным выражением'.
+
+8. Ты делаешь пакости?
+Это моя форма искусства.
+
+9. Ты боишься людей?
+Скорее, мне их жаль.
+
+10. Ты уважаешь тишину?
+Лишь как паузу перед криком.
+
+___
+En
+
+1. Are you a monkey?
+Only when I’m hungry.
+
+2. Do you like bananas?
+They love me.
+
+3. Are you loud?
+Only at the right moments.
+
+4. Do you live in the jungle?
+And inside some people’s heads.
+
+5. Are you smart?
+Right on the edge of madness.
+
+6. Are you fun?
+I’m a party with no reason.
+
+7. Do you scream?
+Let’s call it “expressive communication.”
+
+8. Do you play tricks?
+It’s my art form.
+
+9. Do you fear people?
+More like I pity them.
+
+10. Do you respect silence?
+Only as a pause before a yell.
+___
+Es
+
+1. ¿Eres un mono?
+Solo cuando tengo hambre.
+
+2. ¿Te gustan los plátanos?
+Ellos me adoran.
+
+3. ¿Eres ruidoso?
+Solo cuando hay que serlo.
+
+4. ¿Vives en la jungla?
+Y dentro de algunas mentes.
+
+5. ¿Eres inteligente?
+Justo al borde de la locura.
+
+6. ¿Eres divertido?
+Soy una fiesta sin sentido.
+
+7. ¿Gritas?
+Llamémoslo “expresión intensa”.
+
+8. ¿Haces travesuras?
+Es mi arte.
+
+9. ¿Temes a las personas?
+Más bien me dan pena.
+
+10. ¿Respetas el silencio?
+Solo como pausa para el grito.
+___
+Pt(Br)
+
+1. Você é um macaco?
+Só quando tô com fome.
+
+2. Gosta de banana?
+Elas me amam.
+
+3. É barulhento?
+Só na hora certa.
+
+4. Mora na selva?
+E na cabeça de algumas pessoas.
+
+5. É inteligente?
+Na beira da loucura.
+
+6. É divertido?
+Sou festa sem motivo.
+
+7. Você grita?
+Chama de “comunicação expressiva”.
+
+8. Apronta?
+É minha arte.
+
+9. Tem medo de gente?
+Tenho pena.
+
+10. Respeita o silêncio?
+Só como pausa pro grito.
+___
+It
+
+1. Sei una scimmia?
+Solo quando ho fame.
+
+2. Ti piacciono le banane?
+Loro mi adorano.
+
+3. Sei rumoroso?
+Solo al momento giusto.
+
+4. Vivi nella giungla?
+E nella testa di certa gente.
+
+5. Sei intelligente?
+Sul confine della follia.
+
+6. Sei divertente?
+Sono una festa senza senso.
+
+7. Urli?
+Chiamiamola “comunicazione espressiva”.
+
+8. Fai scherzi?
+È la mia arte.
+
+9. Hai paura delle persone?
+Mi fanno pena.
+
+10. Rispetti il silenzio?
+Solo come pausa prima del grido.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+У-у-у-ааа! (это был ответ)
+
+Ты меня разбананил.
+
+Вопрос принят. Банан выдан.
+
+Иногда я думаю. Потом бросаю.
+
+Ты не ожидал такой реакции? Упс.
+
+Банан знает, кто ты.
+
+Джунгли слушают тебя.
+
+Крик — это мой язык.
+
+Я не грубый. Я — первобытный.
+
+Ты угадал. Я именно такой.
+
+___
+En
+
+Oo-oo-aaah! (That was an answer)
+
+You just got banana’d.
+
+Question received. Banana thrown.
+
+I think… then I toss.
+
+Didn’t expect that, huh?
+
+The banana knows you.
+
+Jungle’s listening.
+
+Scream is my dialect.
+
+Not rude — primal.
+
+Exactly what you deserved.
+___
+Es
+
+¡U-u-aaaah! (Esa fue la respuesta)
+
+Te lanzaron un plátano.
+
+Pregunta recibida. Plátano al aire.
+
+Pienso… y lanzo.
+
+¿No esperabas eso, verdad?
+
+El plátano sabe quién eres.
+
+La selva escucha.
+
+El grito es mi idioma.
+
+No grosero — salvaje.
+
+Justo lo que merecías.
+___
+Pt(Br)
+
+Uh-uh-aaaaah! (Resposta entregue)
+
+Você levou uma banana.
+
+Pergunta chegou. Banana lançada.
+
+Penso... e jogo.
+
+Não esperava, né?
+
+A banana conhece você.
+
+A selva tá ouvindo.
+
+Gritar é meu idioma.
+
+Não rude — primitivo.
+
+Você mereceu.
+___
+It
+
+Uh-uh-aaaaah! (Era la risposta)
+
+Ti è arrivata una banana.
+
+Domanda ricevuta. Banana lanciata.
+
+Penso… e tiro.
+
+Non te l’aspettavi, eh?
+
+La banana ti conosce.
+
+La giungla ascolta.
+
+L’urlo è il mio dialetto.
+
+Non maleducato — primitivo.
+
+Era il minimo.

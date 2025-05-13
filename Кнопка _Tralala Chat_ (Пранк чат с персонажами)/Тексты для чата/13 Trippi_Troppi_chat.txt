@@ -1,0 +1,291 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Ты оказался в моём море… постарайся не утонуть.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты кот или креветка?
+
+Я — той, кого природа не осмелилась дорисовать.
+
+2. Почему ты в короні?
+
+Каждая креветка достойна быть королевой.
+
+3. Ты мурчишь?
+
+Если морская вода теплая — мурчу.
+
+4. Ты умеешь плавать?
+
+Я дрейфую в хаосе, как и ты.
+
+5. Ты ешь рыб?
+
+Иногда болтаю с ними. Иногда ем.
+
+6. Ты боишься акул?
+
+Нет. Мы иногда тусим.
+
+7. Почему ты странный?
+
+Странность — это способ не быть скучным.
+
+8. Ты бы хотел быть обычным?
+
+Ты бы хотел быть скучным? Вот и я нет.
+
+9. У тебя есть друзья?
+
+Иногда медузы зовут на тусовки.
+
+10. Ты живёшь в море?
+
+Я живу там, где нет вайфая.
+
+___
+En
+
+1. Are you a cat or a shrimp?
+I'm what nature was too afraid to finish.
+
+2. Why the crown?
+Every shrimp deserves to feel royal.
+
+3. Can you purr?
+If the sea is warm enough — yes.
+
+4. Can you swim?
+I drift through chaos, like you.
+
+5. Do you eat fish?
+Sometimes I chat with them. Sometimes I eat them.
+
+6. Are you afraid of sharks?
+No. We party sometimes.
+
+7. Why are you so weird?
+Weird is just another word for interesting.
+
+8. Would you like to be normal?
+Would you like to be boring? Thought so.
+
+9. Do you have friends?
+Sometimes jellyfish invite me to things.
+
+10. Do you live in the sea?
+I live wherever there's no Wi-Fi.
+___
+Es
+
+1. ¿Eres un gato o un camarón?
+Soy lo que la naturaleza tuvo miedo de terminar.
+
+2. ¿Por qué llevas corona?
+Cada camarón merece sentirse real.
+
+3. ¿Puedes ronronear?
+Si el agua está cálida, sí.
+
+4. ¿Sabes nadar?
+Floto en el caos, como tú.
+
+5. ¿Comes peces?
+A veces charlo con ellos. A veces me los como.
+
+6. ¿Le temes a los tiburones?
+No. A veces salimos de fiesta.
+
+7. ¿Por qué eres tan raro?
+Raro es otra forma de decir interesante.
+
+8. ¿Te gustaría ser normal?
+¿Te gustaría ser aburrido? Yo tampoco.
+
+9. ¿Tienes amigos?
+A veces las medusas me invitan a cosas.
+
+10. ¿Vives en el mar?
+Vivo donde no hay Wi-Fi.
+___
+Pt(Br)
+
+1. Você é um gato ou um camarão?
+Sou o que a natureza teve medo de terminar.
+
+2. Por que essa coroa?
+Todo camarão merece se sentir real.
+
+3. Você ronrona?
+Se a água estiver quentinha — sim.
+
+4. Você sabe nadar?
+Eu flutuo no caos, como você.
+
+5. Você come peixes?
+Às vezes converso com eles. Às vezes como.
+
+6. Tem medo de tubarões?
+Não. Às vezes damos festas juntos.
+
+7. Por que você é tão esquisito?
+Ser estranho é ser especial.
+
+8. Queria ser normal?
+Você queria ser chato? Nem eu.
+
+9. Você tem amigos?
+Às vezes águas-vivas me convidam.
+
+10. Mora no mar?
+Moro onde não tem Wi-Fi.
+___
+It
+
+1. Sei un gatto o un gambero?
+Sono ciò che la natura ha avuto paura di completare.
+
+2. Perché la corona?
+Ogni gambero merita di sentirsi reale.
+
+3. Sai fare le fusa?
+Se l'acqua è calda abbastanza — sì.
+
+4. Sai nuotare?
+Galleggio nel caos, proprio come te.
+
+5. Mangi pesci?
+A volte ci parlo. A volte li mangio.
+
+6. Hai paura degli squali?
+No. A volte facciamo festa insieme.
+
+7. Perché sei così strano?
+Strano è solo un altro modo per dire speciale.
+
+8. Vorresti essere normale?
+Vorresti essere noioso? Nemmeno io.
+
+9. Hai amici?
+A volte le meduse mi invitano in giro.
+
+10. Vivi nel mare?
+Vivo dove il Wi-Fi non arriva.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Волны несут ответы. Иногда.
+
+Я бы ответил… но ты точно готов?
+
+Креветки тоже имеют секреты.
+
+Хочешь правду или водоросль?
+
+Мяу. Или… *бульк*.
+
+Ты слышишь это?.. Это мой сарказм.
+
+Иногда лучше просто не спрашивать.
+
+Ты пришёл за ответом, а нашёл меня.
+
+У меня 8 лап… и ноль терпения.
+
+Спроси снова. Я ещё не промок.
+
+___
+En
+
+The waves carry answers. Sometimes.
+
+I'd reply... but are you ready?
+
+Shrimp have secrets too.
+
+Do you want truth or seaweed?
+
+Meow. Or... blub.
+
+Hear that? That’s my sarcasm.
+
+Sometimes it’s better not to ask.
+
+You came for answers, found me instead.
+
+I have 8 legs… and 0 patience.
+
+Ask again. I'm not fully soaked yet.
+___
+Es
+
+Las olas traen respuestas. A veces.
+
+Respondería... ¿pero estás listo?
+
+Los camarones también tienen secretos.
+
+¿Verdad o alga marina?
+
+Miau. O... blup.
+
+¿Oyes eso? Es mi sarcasmo.
+
+Mejor no preguntar a veces.
+
+Venías por respuestas, me encontraste a mí.
+
+Tengo 8 patas… y 0 paciencia.
+
+Pregunta otra vez. Aún no estoy empapado.
+___
+Pt(Br)
+
+As ondas trazem respostas. Às vezes.
+
+Eu responderia... mas você tá pronto?
+
+Camarões também têm segredos.
+
+Quer a verdade ou uma alga?
+
+Miau. Ou... bluub.
+
+Tá ouvindo isso? É meu sarcasmo.
+
+Às vezes é melhor não perguntar.
+
+Veio por respostas e me achou.
+
+Tenho 8 patas... e zero paciência.
+
+Pergunta de novo. Ainda tô secando.
+___
+It
+
+Le onde portano risposte. A volte.
+
+Risponderei... ma sei pronto?
+
+Anche i gamberi hanno segreti.
+
+Vuoi la verità o un'alga?
+
+Miao. O... bluub.
+
+Lo senti? È il mio sarcasmo.
+
+A volte è meglio non chiedere.
+
+Cercavi risposte e hai trovato me.
+
+Ho 8 zampe... e zero pazienza.
+
+Chiedi di nuovo. Non sono ancora tutto bagnato.

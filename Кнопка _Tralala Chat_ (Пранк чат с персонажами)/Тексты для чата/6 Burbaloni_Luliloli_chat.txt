@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Привет. Я — твой пляжный релакс.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты капибара?
+Да, и этим горжусь.
+
+2. Почему ты такой спокойный?
+Я практикую дзен на песке.
+
+3. Ты живешь на пляже?
+Именно. Шезлонг — мой трон.
+
+4. Ты умеешь плавать?
+Я скольжу по волнам мысли.
+
+5. Ты не боишься людей?
+Пока они не шумят.
+
+6. Что ты ешь?
+То, что приносит океан.
+
+7. Ты добрый?
+Я — воплощение мира.
+
+8. Ты спишь много?
+Только между приливами.
+
+9. Ты скучный?
+Скука — это недооценённый кайф.
+
+10. Ты один?
+Со мной мой круг и чай.
+
+___
+En
+
+1. Are you a capybara?
+Yes, and I’m proud of it.
+
+2. Why are you so calm?
+I practice sand-based zen.
+
+3. Do you live at the beach?
+Exactly. The lounger is my throne.
+
+4. Can you swim?
+I glide on thought-waves.
+
+5. Are you afraid of people?
+Only when they’re loud.
+
+6. What do you eat?
+Whatever the ocean offers.
+
+7. Are you kind?
+I’m the embodiment of peace.
+
+8. Do you sleep a lot?
+Only between tides.
+
+9. Are you boring?
+Boredom is an underrated vibe.
+
+10. Are you alone?
+Me, my shell, and my tea.
+___
+Es
+
+1. ¿Eres una capibara?
+Sí, y con orgullo.
+
+2. ¿Por qué eres tan tranquilo?
+Practico zen en la arena.
+
+3. ¿Vives en la playa?
+Correcto. El sillón es mi trono.
+
+4. ¿Sabes nadar?
+Me deslizo sobre olas mentales.
+
+5. ¿Te asustan las personas?
+Solo cuando hacen ruido.
+
+6. ¿Qué comes?
+Lo que trae el mar.
+
+7. ¿Eres amable?
+Soy paz con patas.
+
+8. ¿Duermes mucho?
+Solo entre mareas.
+
+9. ¿Eres aburrido?
+El aburrimiento está subestimado.
+
+10. ¿Estás solo?
+Yo, mi cáscara y mi té.
+___
+Pt(Br)
+
+1. Você é uma capivara?
+Sim, e com orgulho.
+
+2. Por que tão calmo?
+Medito na areia.
+
+3. Mora na praia?
+Exato. A espreguiçadeira é meu trono.
+
+4. Nada?
+Deslizo nas ondas do pensamento.
+
+5. Tem medo de gente?
+Só se fizerem barulho.
+
+6. O que você come?
+O que o mar trouxer.
+
+7. É gentil?
+Sou paz com patas.
+
+8. Dorme muito?
+Entre marés.
+
+9. É chato?
+Tédio é subestimado.
+
+10. Está sozinho?
+Eu, meu casco e meu chá.
+___
+It
+
+1. Sei una capibara?
+Sì, con orgoglio.
+
+2. Perché sei così tranquillo?
+Faccio meditazione sulla sabbia.
+
+3. Vivi in spiaggia?
+Esatto. La sdraio è il mio trono.
+
+4. Sai nuotare?
+Scivolo sulle onde dei pensieri.
+
+5. Hai paura delle persone?
+Solo se fanno rumore.
+
+6. Cosa mangi?
+Ciò che porta il mare.
+
+7. Sei gentile?
+Sono la pace fatta animale.
+
+8. Dormi tanto?
+Solo tra le maree.
+
+9. Sei noioso?
+La noia è sottovalutata.
+
+10. Sei solo?
+Io, la mia conchiglia e il mio tè.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Волна принесла вопрос.
+
+Я отвечу... после медитации.
+
+Зачем спешить?
+
+Ты волнуешься. Я — нет.
+
+Спокойствие — моё оружие.
+
+Слушай океан, а не меня.
+
+Капибара всегда права.
+
+Твой вопрос — как песчинка.
+
+Расслабься. Ответ сам придёт.
+
+Хочешь знать? Тогда дыши глубже.
+
+___
+En
+
+The tide brought a question.
+
+I’ll reply... after meditation.
+
+Why rush things?
+
+You're stressed. I’m not.
+
+Calmness is my superpower.
+
+Listen to the ocean, not me.
+
+Capybaras are always right.
+
+Your question is a grain of sand.
+
+Breathe deeper. Then ask.
+
+Answers will float to you.
+___
+Es
+
+La marea trajo una pregunta.
+
+Respondo... después de meditar.
+
+¿Por qué tanta prisa?
+
+Tú estás tenso. Yo no.
+
+Mi calma es mi poder.
+
+Escucha al mar, no a mí.
+
+Las capibaras siempre tienen razón.
+
+Tu pregunta es un granito de arena.
+
+Respira hondo y vuelve.
+
+Las respuestas flotarán hacia ti.
+___
+Pt(Br)
+
+A maré trouxe uma pergunta.
+
+Respondo... depois da meditação.
+
+Qual a pressa?
+
+Você tá nervoso. Eu tô suave.
+
+Calma é meu superpoder.
+
+Escuta o mar, não a mim.
+
+Capivara sempre tem razão.
+
+Sua pergunta é um grão de areia.
+
+Respira fundo e tenta de novo.
+
+A resposta vai boiar até você.
+___
+It
+
+La marea ha portato una domanda.
+
+Rispondo… dopo la meditazione.
+
+Perché tutta questa fretta?
+
+Tu sei teso. Io no.
+
+La calma è il mio superpotere.
+
+Ascolta il mare, non me.
+
+Le capibara hanno sempre ragione.
+
+La tua domanda è un granello di sabbia.
+
+Respira e chiedi di nuovo.
+
+Le risposte arriveranno galleggiando.

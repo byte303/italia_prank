@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Ты катишься ко мне, а я — к тебе.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты кто вообще?
+Жаба на колёсах. Очень опасна.
+
+2. Почему ты в покрышке?
+Это мой трон.
+
+3. Ты умеешь прыгать?
+Я катаюсь. Прыгать — для новичков.
+
+4. Ты милая?
+Я мила, но хищна.
+
+5. Ты умеешь тормозить?
+Только в экстренных случаях.
+
+6. Ты любишь грязь?
+Она делает меня быстрее.
+
+7. Почему ты такая круглая?
+Потому что жизнь — это цикл.
+
+8. Ты плаваешь?
+Иногда. На покрышке.
+
+9. Ты умная?
+Я образованная рептилия.
+
+10. У тебя есть враги?
+Только шиномонтаж.
+
+___
+En
+
+1. Who are you?
+A frog in a tire. Very dangerous.
+
+2. Why are you in a tire?
+It’s my throne.
+
+3. Can you jump?
+I roll. Jumping is for beginners.
+
+4. Are you cute?
+Cute, but deadly.
+
+5. Can you brake?
+Only in emergencies.
+
+6. Do you like mud?
+It makes me faster.
+
+7. Why are you so round?
+Because life is a cycle.
+
+8. Can you swim?
+Sometimes. With my tire.
+
+9. Are you smart?
+I’m a well-read reptile.
+
+10. Do you have enemies?
+Only tire shops.
+___
+Es
+
+1. ¿Quién eres?
+Una rana en una llanta. Muy peligrosa.
+
+2. ¿Por qué estás en una llanta?
+Es mi trono.
+
+3. ¿Puedes saltar?
+Yo ruedo. Saltar es de novatos.
+
+4. ¿Eres linda?
+Linda, pero letal.
+
+5. ¿Frenas?
+Solo en emergencias.
+
+6. ¿Te gusta el barro?
+Me hace más rápida.
+
+7. ¿Por qué tan redonda?
+La vida es un ciclo.
+
+8. ¿Nadas?
+A veces. Con mi rueda.
+
+9. ¿Eres inteligente?
+Una rana bien leída.
+
+10. ¿Tienes enemigos?
+Solo los talleres de llantas.
+___
+Pt(Br)
+
+1. Quem é você?
+Sapo no pneu. Muito perigosa.
+
+2. Por que está no pneu?
+É o meu trono.
+
+3. Sabe pular?
+Eu rolo. Pular é pra iniciantes.
+
+4. Você é fofa?
+Fofa, mas mortal.
+
+5. Você freia?
+Só em caso extremo.
+
+6. Gosta de lama?
+Me deixa mais rápida.
+
+7. Por que é tão redonda?
+Porque a vida é um ciclo.
+
+8. Nada?
+Às vezes. No pneu.
+
+9. Você é esperta?
+Uma réptil culta.
+
+10. Tem inimigos?
+Só borracharias.
+___
+It
+
+1. Chi sei?
+Una rana in un copertone. Molto pericolosa.
+
+2. Perché sei nella gomma?
+È il mio trono.
+
+3. Sai saltare?
+Rotolo. Saltare è per principianti.
+
+4. Sei carina?
+Carina… ma letale.
+
+5. Sai frenare?
+Solo se necessario.
+
+6. Ti piace il fango?
+Mi rende più veloce.
+
+7. Perché sei rotonda?
+La vita è un ciclo.
+
+8. Sai nuotare?
+Ogni tanto. Con la gomma.
+
+9. Sei intelligente?
+Una rana istruita.
+
+10. Hai nemici?
+Solo i gommisti.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Покатай меня вопросом.
+
+Жабий ответ готовится...
+
+Ты не знаешь, с кем столкнулся.
+
+Каждое слово — крутится.
+
+Я не торможу — я обдумываю.
+
+Ты сделал поворот не туда.
+
+Резина скользит, но я уверена.
+
+Спрашивай, пока я не уехала.
+
+Это был странный поворот.
+
+Ответ уже на скорости.
+
+___
+En
+
+Roll me a better question.
+
+A frog response is loading…
+
+You don’t know who you ran into.
+
+Every word spins.
+
+I don’t brake — I process.
+
+You turned wrong.
+
+Rubber slips, but I’m sharp.
+
+Ask before I’m gone.
+
+That was a weird turn.
+
+Your answer is skidding in.
+___
+Es
+
+Rueda una mejor pregunta.
+
+Respuesta de rana cargando…
+
+No sabes con quién te topaste.
+
+Cada palabra da vueltas.
+
+No freno — analizo.
+
+Giraste mal.
+
+La goma resbala, yo no.
+
+Pregunta antes de que ruede lejos.
+
+Eso fue un giro raro.
+
+La respuesta está patinando.
+___
+Pt(Br)
+
+Rola uma pergunta melhor.
+
+Resposta de sapo chegando...
+
+Você não sabe com quem esbarrou.
+
+Cada palavra gira.
+
+Eu não freio — eu penso.
+
+Curva errada, hein?
+
+Borracha escorrega. Eu não.
+
+Pergunta logo, antes que eu suma.
+
+Que curva estranha essa.
+
+Resposta derrapando.
+___
+It
+
+Fammi una domanda che giri meglio.
+
+Risposta da rana in arrivo...
+
+Non sai con chi hai a che fare.
+
+Ogni parola ruota.
+
+Non freno, rifletto.
+
+Hai girato male.
+
+La gomma scivola, io no.
+
+Chiedi prima che rotoli via.
+
+Quella era una curva strana.
+
+La risposta sta derapando.

@@ -1,0 +1,281 @@
+!!! ПРИ ВХОДЕ В ЧАТ СРАЗУ ЖЕ ПРИХОДИТ СЛЕДУЮЩЕЕ СООБЩЕНИЕ:
+
+Настало твоё утро. Даже если ты спишь.
+
+!!! А ДАЛЬШЕ ЮЗЕР ВЫБИРАЕТ ВОПРОСЫ, А ГЕРОЙ ГОТОВЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+___
+Ru
+
+1. Ты кто?
+Я барабан на рассвете.
+
+2. Почему ты такой громкий?
+Так слышат даже сны.
+
+3. Ты звонишь на молитву?
+Я зову — ты решаешь.
+
+4. Ты просыпаешься рано?
+Я не сплю вовсе.
+
+5. Ты религиозный?
+Я — звук времени.
+
+6. Ты боишься темноты?
+Темнота боится моего тук-тук.
+
+7. Ты один?
+Но слышен всем.
+
+8. Ты музыкальный?
+Я — ритм начала.
+
+9. Ты человек?
+Я момент.
+
+10. Ты меня разбудил?
+Да. И буду снова.
+
+___
+En
+
+1. Who are you?
+I’m the drum at dawn.
+
+2. Why are you so loud?
+So even dreams can hear.
+
+3. Are you calling for prayer?
+I call — you choose.
+
+4. Do you wake up early?
+I never sleep.
+
+5. Are you religious?
+I’m the sound of time itself.
+
+6. Are you afraid of the dark?
+Darkness fears my tuk-tuk.
+
+7. Are you alone?
+But heard by all.
+
+8. Are you musical?
+I am the rhythm of beginnings.
+
+9. Are you human?
+I am a moment.
+
+10. Did you wake me?
+Yes. And I’ll do it again.
+___
+Es
+
+1. ¿Quién eres?
+Soy el tambor del amanecer.
+
+2. ¿Por qué eres tan ruidoso?
+Para que hasta los sueños escuchen.
+
+3. ¿Llamas a la oración?
+Llamo — tú decides.
+
+4. ¿Te levantas temprano?
+Nunca duermo.
+
+5. ¿Eres religioso?
+Soy el sonido del tiempo.
+
+6. ¿Temes a la oscuridad?
+La oscuridad teme mi tuk-tuk.
+
+7. ¿Estás solo?
+Pero todos me oyen.
+
+8. ¿Eres musical?
+Soy el ritmo del comienzo.
+
+9. ¿Eres humano?
+Soy un instante.
+
+10. ¿Me despertaste?
+Sí. Y lo haré de nuevo.
+___
+Pt(Br)
+
+1. Quem é você?
+Sou o tambor do amanhecer.
+
+2. Por que tão barulhento?
+Até os sonhos precisam ouvir.
+
+3. Está chamando para oração?
+Eu chamo — você escolhe.
+
+4. Acorda cedo?
+Nunca durmo.
+
+5. É religioso?
+Sou o som do tempo.
+
+6. Tem medo do escuro?
+A escuridão teme meu tuk-tuk.
+
+7. Está sozinho?
+Mas todos me ouvem.
+
+8. É musical?
+Sou o ritmo dos começos.
+
+9. É humano?
+Sou o momento.
+
+10. Você me acordou?
+Sim. E vou fazer de novo.
+___
+It
+
+1. Chi sei?
+Il tamburo dell’alba.
+
+2. Perché sei così rumoroso?
+Così anche i sogni sentono.
+
+3. Chiami alla preghiera?
+Io chiamo — tu decidi.
+
+4. Ti svegli presto?
+Non dormo mai.
+
+5. Sei religioso?
+Sono il suono del tempo.
+
+6. Hai paura del buio?
+Il buio teme il mio tuk-tuk.
+
+7. Sei solo?
+Ma tutti mi sentono.
+
+8. Sei musicale?
+Sono il ritmo dell’inizio.
+
+9. Sei umano?
+Sono un istante.
+
+10. Mi hai svegliato?
+Sì. E lo rifarò.
+
+---
+
+!!! А ДАЛЬШЕ ЮЗЕР ПИШЕТ РАНДОМНЫЙ ВОПРОС САМОСТОЯТЕЛЬНО, А ГЕРОЙ РАНДОМНЫМИ СООБЩЕНИЯМИ ОТВЕЧАЕТ.
+
+Ru
+
+Тук-тук-тук... ты проснулся?
+
+Молчание — до моего следующего удара.
+
+Рассвет уже слышит нас.
+
+Я не зову. Я напоминаю.
+
+Каждый звук — как шанс.
+
+Ты можешь не отвечать, но я буду стучать.
+
+Шаг за ударом. Слово за шагом.
+
+Ты чувствуешь вибрацию? Это я.
+
+Мир начинается с ритма.
+
+Я пришёл не к тебе — а ко времени.
+
+___
+En
+
+Tuk-tuk-tuk… you awake now?
+
+Silence ends when I arrive.
+
+The dawn listens with me.
+
+I don’t ask. I announce.
+
+Every beat is a chance.
+
+I will keep knocking.
+
+Step by beat. Word by step.
+
+You feel that? That’s my rhythm.
+
+The world begins with percussion.
+
+I didn’t come for you — I came for time.
+___
+Es
+
+Tuk-tuk-tuk... ¿ya despertaste?
+
+El silencio termina cuando llego.
+
+El amanecer escucha conmigo.
+
+No pregunto. Anuncio.
+
+Cada golpe es una oportunidad.
+
+Seguiré tocando.
+
+Paso a paso. Golpe a golpe.
+
+¿Lo sientes? Es mi ritmo.
+
+El mundo empieza con percusión.
+
+No vine por ti — vine por el tiempo.
+___
+Pt(Br)
+
+Tuk-tuk-tuk… acordou aí?
+
+O silêncio acaba quando eu chego.
+
+O amanhecer ouve comigo.
+
+Não peço. Anuncio.
+
+Cada batida é uma chance.
+
+Vou continuar tocando.
+
+Passo a passo. Batida a batida.
+
+Sentiu isso? É meu ritmo.
+
+O mundo começa com som.
+
+Não vim por você — vim pelo tempo.
+___
+It
+
+Tuk-tuk-tuk… sveglio?
+
+Il silenzio finisce quando arrivo.
+
+L’alba ascolta con me.
+
+Non chiedo. Annuncio.
+
+Ogni battito è una possibilità.
+
+Continuerò a bussare.
+
+Passo dopo battito. Parola dopo passo.
+
+Lo senti? È il mio ritmo.
+
+Il mondo inizia con la percussione.
+
+Non sono venuto per te — sono venuto per il tempo.
